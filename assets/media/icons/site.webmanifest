@@ -1,0 +1,19 @@
+{
+  "name": "necta results system",
+  "short_name": "nrs",
+  "icons": [
+    {
+      "src": "http://localhost/necta-v3/assets/media/icons/icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "http://localhost/necta-v3/assets/media/icons/icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
